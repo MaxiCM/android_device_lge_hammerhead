@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/lge/hammerhead/aosp_hammerhead.mk)
+$(call inherit-product, device/lge/hammerhead/maxi_hammerhead.mk)
 
 # Add overlay to enable Bluetooth automotive profiles
 DEVICE_PACKAGE_OVERLAYS += \
